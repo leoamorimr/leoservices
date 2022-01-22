@@ -7,8 +7,12 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="froud" />
         <module name="customer" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="fraud" target="17" />
+    </bytecodeTargetLevel>
   </component>
 </project>
