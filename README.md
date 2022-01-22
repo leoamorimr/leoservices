@@ -5,3 +5,6 @@ This project is based on Amigos code Microservices course (https://www.youtube.c
 
 Diagram:
 ![img.png](img.png)
+
+Eureka server diagram:
+![image](https://user-images.githubusercontent.com/36885888/150637262-83009aca-3234-4aa4-9beb-493baabb6d68.png)
