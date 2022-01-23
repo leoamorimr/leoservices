@@ -1,0 +1,9 @@
+com\leoamorimr\customer\CustomerController.class
+com\leoamorimr\customer\CustomerRepository.class
+com\leoamorimr\customer\Customer$CustomerBuilder.class
+com\leoamorimr\customer\CustomerApplication.class
+com\leoamorimr\customer\CustomerConfig.class
+com\leoamorimr\customer\CustomerRegistrationRequest.class
+com\leoamorimr\customer\Customer.class
+com\leoamorimr\customer\CustomerService.class
+com\leoamorimr\customer\FroudCheckResponse.class
