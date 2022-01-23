@@ -18,7 +18,7 @@ public class CustomerService {
         customerRepository.saveAndFlush(customer); //to have access to customerId
         //  todo: check if is froudster
         FroudCheckResponse froudCheckResponse = restTemplate.getForObject(
-                "http://localhost:8081/api/v1/froud-check/{customerId}",
+                "http://FROUD/api/v1/froud-check/{customerId}",
                 FroudCheckResponse.class,
                 customer.getId());
         if (froudCheckResponse.isFroudster()) {
